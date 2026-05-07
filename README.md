@@ -1,7 +1,7 @@
 A personal Python lab for exploring fundamentals, logic, automation, and small experiments.
 Learn. Code. Evolve.
 
-<h1 align="center">🐍 PythonLab</h1>
+<h1 align="center">🐍 learn-py</h1>
 <p align="center">
   <i>My personal lab for mastering core Python concepts through hands-on coding.</i><br>
   <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python">
